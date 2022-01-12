@@ -1,4 +1,4 @@
-# ET-Board(이티보드) 학습 컨텐츠
+# ET-Board/ESP32(이티보드) 학습 컨텐츠
 - 지원언어: Arduino(아두이노), MicroPython(마이크로파이션), Entry(엔트리)
 - 지원보드: ET-Board(ESP32), ESP32-DevKit, NodeMCU-32
 
